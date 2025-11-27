@@ -19,8 +19,8 @@
 				{
 					"type": "git",
 					"url": "https://github.com/wesenseged/Pagume.git",
-					"tag": "0.0.3",
-					"commit": "7f9dfb847e28779113ccb5951be1cb45e298cb3b"
+					"tag": "0.0.4",
+					"commit": "e1c2a36ce3122abc95ab5a677477f2cd1479c69b"
 				}
 			]
 		}
